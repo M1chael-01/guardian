@@ -1,0 +1,115 @@
+{
+  "Navigation": {
+    "brand": {
+      "main": "GUARDIANS",
+      "sub": "OF BLOCKCHAIN"
+    },
+    "products": "Produkty",
+    "resources": "Zdroje",
+    "pricing": "Ceny",
+    "download": "Stáhnout PDF nyní"
+  },
+  "Home": {
+    "title": {
+      "part1": "Buďte",
+      "guardian": "Strážcem",
+      "part2": "Blockchainu"
+    },
+    "subtitle": "Začněte sólově těžit dnes",
+    "description": {
+      "line1": "Stáhněte si naši PRŮVODCE SOLOVOU TĚŽBOU ZDARMA",
+      "line2": "a připojte se k decentralizačnímu hnutí. Každý hash se počítá!"
+    },
+    "cta": "Stáhnout PDF nyní",
+    "globeAlt": "Pozadí zeměkoule"
+  },
+  "Cta": {
+    "title": "Jste připraveni získat svůj PRŮVODCE ZDARMA?",
+    "button": "Stáhnout PDF nyní"
+  },
+  "SoloMatters": {
+    "title": "Proč na sólovém těžbě záleží",
+    "subtitle": "Decentralizujte budoucnost Bitcoinu – jeden mini-těžař po druhém.",
+    "downloadButton": "Stáhnout PDF nyní",
+    "joinButton": "Připojte se k nám",
+    "cards": {
+      "centralization": {
+        "alt": "Hrozba centralizace",
+        "title": "Hrozba|centralizace",
+        "description": "Největším problémem v těžbě Bitcoinu je dnes centralizace: hrstka obrovských ASIC farem má příliš velkou moc."
+      },
+      "balance": {
+        "alt": "Posunout rovnováhu",
+        "title": "Posunout|rovnováhu",
+        "description": "Sóloví těžaři mohou posunout rovnováhu. Představte si 18 milionů nezávislých zařízení pohánějících 10 % sítě – jedno zařízení po druhém."
+      },
+      "plug": {
+        "alt": "Zapoj a těž",
+        "title": "Zapoj|a těž",
+        "description": "Nepotřebujete složité rigy ani obrovské účty za elektřinu. Zapojte mini-těžače, začněte těžit a udělejte svůj dopad."
+      }
+    }
+  },
+  "Footer": {
+    "copyright": "Copyright 2025",
+    "brand": "Guardians",
+    "terms": "Obchodní podmínky",
+    "privacy": "Ochrana soukromí",
+    "legal": "Právní informace",
+    "designedBy": "Navrženo",
+    "designer": "Galosoft Creative"
+  },
+  "GuideContent": {
+    "title": "Co najdete uvnitř",
+    "free": "ZDARMA",
+    "guide": "Průvodce",
+    "description": "Vše, co potřebujete k zahájení sólové těžby - jedno zařízení, jeden hlas, skutečný dopad.",
+    "downloadButton": "Stáhnout PDF nyní",
+    "features": [
+      {
+        "title": "USB k sdílení: Krok za krokem",
+        "description": "Proč proof-of-work zabezpečuje Bitcoin"
+      },
+      {
+        "title": "Šance na odměnu za blok",
+        "description": "Šance 1 ku 1 000 000 - malé jednotky, velké odhodlání"
+      },
+      {
+        "title": "Plán 18 milionů",
+        "description": "Jak naše komunita může pohnout síťovou jehlou"
+      },
+      {
+        "title": "Hashování IO!",
+        "description": "Proč proof-of-work zabezpečuje Bitcoin"
+      },
+      {
+        "title": "V duchu Satoshiho",
+        "description": "Jeden CPU, jeden hlas"
+      },
+      {
+        "title": "Sólová vs. poolová těžba",
+        "description": "Kompromisy a proč je sólová těžba klíčová pro decentralizaci"
+      }
+    ]
+  },
+  "SneakPeek": {
+    "title": "Náhled: Naše Guardian zařízení",
+    "button": "Zobrazit detaily",
+    "mini": {
+      "title": "Guardian",
+      "subtitle": "Mini",
+      "alt": "Guardian Mini",
+      "badge": "70 TH/s",
+      "specs": "až 70 KH/s",
+      "price": "$49"
+    },
+    "max": {
+      "title": "Guardian",
+      "subtitle": "Max",
+      "alt": "Guardian Max",
+      "badge": "Nejpopulárnější",
+      "specs": "až 200 GH/s",
+      "price": "$89"
+    }
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "Navigation": {
+    "brand": {
+      "main": "GUARDIANS",
+      "sub": "OF BLOCKCHAIN"
+    },
+    "products": "Products",
+    "resources": "Resources",
+    "pricing": "Pricing",
+    "download": "Download PDF Now"
+  },
+  "Home": {
+    "title": {
+      "part1": "Be a",
+      "guardian": "Guardian",
+      "part2": "of the Blockchain"
+    },
+    "subtitle": "Start Solo Mining Today",
+    "description": {
+      "line1": "Download our FREE Solo Mining Starter Guide",
+      "line2": "and join the decentralization movement. Every hash counts!"
+    },
+    "cta": "Download PDF Now",
+    "globeAlt": "Globe background"
+  },
+  "Cta": {
+    "title": "Ready to Claim Your FREE Guide?",
+    "button": "Download PDF Now"
+  },
+  "SoloMatters": {
+    "title": "Why Solo Mining Matters",
+    "subtitle": "Decentralize the future of Bitcoin—one mini-miner at a time.",
+    "downloadButton": "Download PDF Now",
+    "joinButton": "Join Us Now",
+    "cards": {
+      "centralization": {
+        "alt": "Centralization Threat",
+        "title": "Centralization|Threat",
+        "description": "The biggest problem in Bitcoin mining today is centralization: a handful of massive ASIC farms hold too much power."
+      },
+      "balance": {
+        "alt": "Shift The Balance",
+        "title": "Shift The|Balance",
+        "description": "Solo miners can shift the balance. Imagine 18 million independent devices powering 10% of the network—one device at a time."
+      },
+      "plug": {
+        "alt": "Plug & Hash",
+        "title": "Plug|& Hash",
+        "description": "No complex rigs or huge power bills needed. Plug in a mini-miner, start hashing, and make your impact."
+      }
+    }
+  },
+  "Footer": {
+    "copyright": "Copyright 2025",
+    "brand": "Guardians",
+    "terms": "Terms & Conditions",
+    "privacy": "Privacy Policy",
+    "legal": "Legal",
+    "designedBy": "Designed by",
+    "designer": "Galosoft Creative"
+  },
+  "GuideContent": {
+    "title": "What's Inside the",
+    "free": "FREE",
+    "guide": "Guide",
+    "description": "Everything you need to start solo mining - one device, one vote, real impact.",
+    "downloadButton": "Download PDF Now",
+    "features": [
+      {
+        "title": "USB to Share: Step-by-Step",
+        "description": "Why proof-of-work secures Bitcoin"
+      },
+      {
+        "title": "Block Reward Odds",
+        "description": "1 in 1,000,000 odds—small units, big commitment"
+      },
+      {
+        "title": "The 18 Million Plan",
+        "description": "How our tribe can move the network needle"
+      },
+      {
+        "title": "Hashing IO!",
+        "description": "Why proof-of-work secures Bitcoin"
+      },
+      {
+        "title": "In Satoshi's Spirit",
+        "description": "One CPU, One Vote"
+      },
+      {
+        "title": "Solo vs. Pool",
+        "description": "The trade-offs and why solo is critical for decentralization"
+      }
+    ]
+  },
+  "SneakPeek": {
+    "title": "Sneak Peek: Our Guardian Rigs",
+    "button": "View details",
+    "mini": {
+      "title": "Guardian",
+      "subtitle": "Mini",
+      "alt": "Guardian Mini",
+      "badge": "70 TH/s",
+      "specs": "up to 70 KH/s",
+      "price": "$49"
+    },
+    "max": {
+      "title": "Guardian",
+      "subtitle": "Max",
+      "alt": "Guardian Max",
+      "badge": "Most Popular",
+      "specs": "up to 200 GH/s",
+      "price": "$89"
+    }
+  }
+}
